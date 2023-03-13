@@ -18,7 +18,6 @@
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
    </div>
     
-  
   <h1 align="center">Contato</h1>
     <a href = "mailto: victormpporto@gmail.com">
       <img width="30" src="gmail.svg">
