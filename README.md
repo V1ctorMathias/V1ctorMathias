@@ -26,6 +26,7 @@
     <a href = "https://www.linkedin.com/in/v1ctor-mathias/">
       <img width="25" src="linkedin.svg">
     </a>
+  
 </div>
   
 ![Snake animation](https://github.com/V1ctorMathias/V1ctorMathias/blob/output/github-contribution-grid-snake.svg)
