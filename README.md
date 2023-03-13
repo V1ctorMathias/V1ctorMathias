@@ -19,7 +19,7 @@
    </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
+  <h1 align="center">Contato</h1>
     <a href = "mailto: victormpporto@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
