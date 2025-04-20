@@ -31,4 +31,4 @@
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![adobephotoshop](https://img.shields.io/badge/-photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&labelColor=0D1117)&nbsp;
   
- ![Snake animation](https://github.com/V1ctorMathias/V1ctorMathias/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/V1ctorMathias/V1ctorMathias/blob/output/github-contribution-grid-snake.svg) -->
