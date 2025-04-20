@@ -1,3 +1,8 @@
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=V1ctorMathias&show_icons=true&count_private=true&hide_border=true&title_color=C0C0C0&icon_color=C0C0C0&text_color=c9d1d9&bg_color=ffffff00" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1ctorMathias&layout=compact&hide_border=true&title_color=C0C0C0&text_color=C0C0C0&bg_color=ffffff00" />
+</div>
+
 ## Contatos:
 <div align="left">  
  <a href="https://www.linkedin.com/in/v1ctor-mathias/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
