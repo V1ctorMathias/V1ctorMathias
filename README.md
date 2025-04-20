@@ -23,6 +23,7 @@
   
 ## Outros Conhecimentos:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Node](https://img.shields.io/badge/-nodejs-0D1117?style=for-the-badge&logo=Node.js&logoColor=339933&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![adobephotoshop](https://img.shields.io/badge/-photoshop-0D1117?style=for-the-badge&logo=adobephotoshop&labelColor=0D1117)&nbsp;
