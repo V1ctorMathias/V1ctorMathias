@@ -1,9 +1,6 @@
 # Oi, sou o Victor!
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=V1ctorMathias&show_icons=true&count_private=true&hide_border=true&title_color=C0C0C0&icon_color=C0C0C0&text_color=c9d1d9&bg_color=ffffff00" alt="Matheus Maia Alvarez github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1ctorMathias&layout=compact&hide_border=true&title_color=C0C0C0&text_color=C0C0C0&bg_color=ffffff00" />
-</div>
+![3D Contributions](./profile-3d-contrib/profile-3d-contrib.svg)
 
 ## Contatos:
 <div align="left">  
