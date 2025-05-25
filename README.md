@@ -1,6 +1,6 @@
 # Oi, sou o Victor!
 
-![3D Contributions](./profile-3d-contrib/profile-3d-contrib.svg)
+![3D Contributions](./profile-3d-contrib.svg)
 
 ## Contatos:
 <div align="left">  
